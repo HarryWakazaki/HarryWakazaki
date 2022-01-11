@@ -20,7 +20,7 @@
 **Sở thích**
 
 - Nghe Nhạc , Đọc Sách Nè
-- Nghịc Vài Thứ Thú Vị Như Học Code Nè
+- Nghịch Vài Thứ Thú Vị Như Học Code Nè
 
 **Thông tin liên lạc**
 
