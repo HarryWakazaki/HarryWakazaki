@@ -11,7 +11,7 @@
 
 - Tôi Tên Là : **Nguyễn Thái Hảo**
 - Là Học Sinh Tại : **TH - THCS - THPT - Lê Quý Đôn - QT**
-- Date Of Birth : **03/01/2008**
+- Date Of Birth : **03/01/2008 / =))**
 - Chiều Cao : **1m65**
 - Tính Cách : **Ảo Ma**, **Nhạt**,**Lâu Lâu Hài**,...
 - Quê Tôi Ở : **Xuân Lộc**
