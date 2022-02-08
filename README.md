@@ -2,7 +2,7 @@
 <h1> Xin Chào Mình Tên Là Nguyễn Thái Hảo
 </h1>
 <align="center">
-    <img align="center" alt="GIF" src="http://mrwgifs.com/wp-content/uploads/2014/06/Cute-Cat-Hacking-Into-Top-Secret-Files-On-Chis-Sweet-Home-Anime.gif" />
+    <img align="center" alt="IMG" src="https://avatars.githubusercontent.com/u/93087120?s=400&u=c5b9db46b1e3b4b995d1cce1407aace86f505e9f&v=4" />
 
 
 
