@@ -28,11 +28,10 @@
 - Gmail : **[Nguyễn Thái Hảo](https://gmail.com)**
 - Github : **[HarryWakazaki](https://github.com/HarryWakazaki)**
 - Zalo: **[Thái Hảo](https://zalo.me/0946838477/)**
- <h2>
+ <h2>   <hr>
  <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api//top-langs?username=HarryWakazaki&show_icons=true&theme=tokyonight&count_private=true&langs_count=10&layout=compact">
   </a><br>
-   <hr>
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=HarryWakazaki&show_icons=true&theme=tokyonight&count_private=true">
   </a><br>
