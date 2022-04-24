@@ -26,7 +26,7 @@
 # 👑 Top Language Use
 
 <p align="center">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryWakazaki&text_color=daf7dc&bg_color=151515)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryWakazaki&text_color=daf7dc&bg_color=151515">
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 </p>
