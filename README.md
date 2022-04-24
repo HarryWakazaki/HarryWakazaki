@@ -35,7 +35,6 @@
 
 # 👑 Contact
 <p align="center">
-</br>
 <a href="https://github.com/HarryWakazaki">
   <img align="left" alt="HarryWakazaki Github" width="100" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
