@@ -1,14 +1,8 @@
 ### Welcome To My Github Account <3
-
 <p align="center">
     <img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarryWakazaki&label=T%E1%BB%95ng%20Ng%C6%B0%E1%BB%9Di%20Tham%20Quan&color=0e75b6&style=flat" alt="Nguyễn Thái Hảo" /> </p>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=HarryWakazaki&column=8&theme=onedark&no-frame=true"/></a> 
-</p>
-<br>
-
+<h2/>
 # 👑 An Infomation About Me
 
 -   👀 My name is Nguyễn Thái Hảo.
@@ -21,9 +15,10 @@
 <hr>
 
 # 👑 Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=HarryWakazaki&include_all_commits=true&count_private=true&show_icons=true&custom_title=Nguy%E1%BB%85n%20Th%C3%A1i%20H%E1%BA%A3o%20Stats&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt = "Github Stats" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarryWakazaki&theme=neon-palenight" alt = "Github Streak" >
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=HarryWakazaki&include_all_commits=true&count_private=true&show_icons=true&custom_title=Nguy%E1%BB%85n%20Th%C3%A1i%20H%E1%BA%A3o%20Stats&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt = "Github Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HarryWakazaki&theme=neon-palenight" alt = "Github Streak" >
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=HarryWakazaki&column=8&theme=onedark&no-frame=true"/></a> 
+</p>
 
 # 👑 Top Language Use
 
@@ -46,3 +41,5 @@
 <a href="http://www.youtube.com/channel/UC5G72dYskA9X8bQxpPDErsg">
   <img align="left" alt="HarryWakazaki Youtube" width="100" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=HarryWakazaki&label=T%E1%BB%95ng%20Ng%C6%B0%E1%BB%9Di%20Tham%20Quan&color=0e75b6&style=flat" alt="Nguyễn Thái Hảo" /> </p>
