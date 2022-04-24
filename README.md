@@ -2,7 +2,8 @@
 <p align="center">
     <img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
-<h2/>
+<hr>
+
 # 👑 An Infomation About Me
 
 -   👀 My name is Nguyễn Thái Hảo.
@@ -11,10 +12,11 @@
 -   💓 Relationship: Độc Thân Cho Đến Khi 18+ 👀
 -   🌟 Profile: [Facebook Link](https://www.facebook.com/Lazic.Kanzu)
 -   💎 About Me: I love programming and reading whenever I'm free, I'm a rusher because I feel like I have too little time.
-
+-   
 <hr>
 
 # 👑 Github Stats
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=HarryWakazaki&include_all_commits=true&count_private=true&show_icons=true&custom_title=Nguy%E1%BB%85n%20Th%C3%A1i%20H%E1%BA%A3o%20Stats&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt = "Github Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HarryWakazaki&theme=neon-palenight" alt = "Github Streak" >
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=HarryWakazaki&column=8&theme=onedark&no-frame=true"/></a> 
