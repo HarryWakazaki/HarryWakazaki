@@ -1,35 +1,48 @@
+### Welcome To My Github Account <3
 
-<h1> Xin Chào Mình Tên Là Nguyễn Thái Hảo
-</h1>
-<align="center">
-    <img align="center" alt="IMG" src="https://avatars.githubusercontent.com/u/93087120?s=400&u=c5b9db46b1e3b4b995d1cce1407aace86f505e9f&v=4" />
+<p align="center">
+    <img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarryWakazaki&label=T%E1%BB%95ng%20Ng%C6%B0%E1%BB%9Di%20Tham%20Quan&color=0e75b6&style=flat" alt="Nguyễn Thái Hảo" /> </p>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=HarryWakazaki&column=8&theme=onedark&no-frame=true"/></a> 
+</p>
+<br>
 
+# 👑 An Infomation About Me
 
+-   👀 My name is Nguyễn Thái Hảo.
+-   🎂 My Birthday is: 03/01/2008
+-   👑 My nickname is KanzuWakazaki - Horizon Lucius
+-   💓 Relationship: Độc Thân Cho Đến Khi 18+ 👀
+-   🌟 Profile: [Facebook Link](https://www.facebook.com/Lazic.Kanzu)
+-   💎 About Me: I love programming and reading whenever I'm free, I'm a rusher because I feel like I have too little time.
 
-**Cơ Bản Về NTH**
+<hr>
 
-- Tôi Tên Là : **Nguyễn Thái Hảo**
-- Là Học Sinh Tại : **TH - THCS - THPT - Lê Quý Đôn - QT**
-- Date Of Birth : **03/01/2008 / =))**
-- Chiều Cao : **1m65**
-- Tính Cách : **Ảo Ma**, **Nhạt**,**Lâu Lâu Hài**,...
-- Quê Tôi Ở : **Xuân Lộc**
-- Hiện Tại Tôi Đang Sinh Sống Ở : **Đồng Nai**
+# 👑 Github Stats
 
-**Sở thích**
+<img src="https://github-readme-stats.vercel.app/api?username=HarryWakazaki&include_all_commits=true&count_private=true&show_icons=true&custom_title=Nguy%E1%BB%85n%20Th%C3%A1i%20H%E1%BA%A3o%20Stats&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt = "Github Stats" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarryWakazaki&theme=neon-palenight" alt = "Github Streak" >
 
-- Nghe Nhạc , Đọc Sách Nè
-- Nghịch Vài Thứ Thú Vị Như Học Code Nè
+# 👑 Top Language Use
 
-**Thông tin liên lạc**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryWakazaki&text_color=daf7dc&bg_color=151515)
 
-- Faceebok : **[Nguyễn Thái Hảo](https://www.facebook.com/Lazic.Kanzu/)**
-- Gmail : **[Nguyễn Thái Hảo](https://gmail.com)**
-- Github : **[HarryWakazaki](https://github.com/HarryWakazaki)**
-- Zalo: **[Thái Hảo](https://zalo.me/0946838477/)**
-<div align="center">
-  <hr>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=HarryWakazaki&show_icons=true&theme=tokyonight&count_private=true">
- 
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+# 🤝🏻 Connect with Me
+<p align="center">
+</br>
+<a href="https://github.com/HarryWakazaki">
+  <img align="left" alt="HarryWakazaki Github" width="100" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/lazic.kanzu/">
+  <img align="left" alt="HarryWakazaki Instagram" width="100" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/Lazic.Kanzu">
+  <img align="left" alt="HarryWakazaki Facebook" width="100" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="http://www.youtube.com/channel/UC5G72dYskA9X8bQxpPDErsg">
+  <img align="left" alt="HarryWakazaki Youtube" width="100" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
