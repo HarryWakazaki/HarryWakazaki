@@ -36,16 +36,16 @@
 # 👑 Contact
 <p align="center">
 <a href="https://github.com/HarryWakazaki">
-  <img align="left" alt="HarryWakazaki Github" width="100" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img alt="HarryWakazaki Github" width="100" src="https://cdn-icons-png.flaticon.com/512/179/179323.png" />
 </a>
 <a href="https://www.instagram.com/lazic.kanzu/">
-  <img align="left" alt="HarryWakazaki Instagram" width="100" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img alt="HarryWakazaki Instagram" width="100" src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" />
 </a>
 <a href="https://www.facebook.com/Lazic.Kanzu">
-  <img align="left" alt="HarryWakazaki Facebook" width="100" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img alt="HarryWakazaki Facebook" width="100" src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" />
 </a>
 <a href="http://www.youtube.com/channel/UC5G72dYskA9X8bQxpPDErsg">
-  <img align="left" alt="HarryWakazaki Youtube" width="100" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img alt="HarryWakazaki Youtube" width="100" src="https://cdn-icons-png.flaticon.com/128/187/187209.png" />
 </a>
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=HarryWakazaki&label=T%E1%BB%95ng%20Ng%C6%B0%E1%BB%9Di%20Tham%20Quan&color=0e75b6&style=flat" alt="Nguyễn Thái Hảo" /> </p>
