@@ -12,7 +12,7 @@
 -   💓 Relationship: Độc Thân Cho Đến Khi 18+ 👀
 -   🌟 Profile: [Facebook Link](https://www.facebook.com/Lazic.Kanzu)
 -   💎 About Me: I love programming and reading whenever I'm free, I'm a rusher because I feel like I have too little time.
--   
+
 <hr>
 
 # 👑 Github Stats
